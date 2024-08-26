@@ -37,7 +37,10 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       body: Column(
         children: [
-          Text("Praveen Suthar")
+          Text("Praveen Suthar"),
+          Text("raj Suthar"),
+          Text("krishna Suthar"),
+
         ],
       ),
     );
